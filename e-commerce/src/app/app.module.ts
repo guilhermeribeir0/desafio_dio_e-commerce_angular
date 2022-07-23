@@ -10,6 +10,7 @@ import { ECommerceAppComponent } from './components/e-commerce-app/e-commerce-ap
 import { FiltersComponent } from './components/e-commerce-app/filters/filters.component';
 import { ProductListComponent } from './components/e-commerce-app/product-list/product-list.component';
 import { ProductItemComponent } from './components/e-commerce-app/product-list/product-item/product-item.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { ProductItemComponent } from './components/e-commerce-app/product-list/p
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

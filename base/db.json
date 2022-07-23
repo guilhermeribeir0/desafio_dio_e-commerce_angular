@@ -1,0 +1,18 @@
+{
+    "livros": [
+    {
+        "id": 1,
+        "name": "Codigo Limpo",
+        "price": 69.99,
+        "quantity": 14,
+        "category": "Tecnologia"
+    },
+    {
+        "id": 2,
+        "name": "Arquitetura Limpa",
+        "price": 59.99,
+        "quantity": 16,
+        "category": "Tecnologia"
+    }
+    ]
+}
