@@ -13,6 +13,20 @@
         "price": 59.99,
         "quantity": 16,
         "category": "Tecnologia"
+    },
+    {
+        "id": 3,
+        "name": "Java Para Iniciantes",
+        "price": 89.99,
+        "quantity": 8,
+        "category": "Tecnologia"
+    },
+    {
+        "id": 4,
+        "name": "Spring Framework",
+        "price": 79.99,
+        "quantity": 10,
+        "category": "Tecnologia"
     }
     ]
 }
