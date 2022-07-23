@@ -1,1 +1,12 @@
-<p>product-item works!</p>
+<div class="card shadow-sm">
+    <div class="card-body">
+        <h4 href="#" class="card-text">{{ book.name }}</h4>
+        <h2 href="#" class="card-text">{{ book.price | currency:'BRL'}}</h2>
+        <p href="#" class="card-text">{{ book.category }}</p>
+        <p href="#" class="card-text">Disponível: {{ book.quantity }}</p>
+    </div>
+    <div class="btn-group">
+        <button type="button" class="btn btn-sm btn-primary">Comprar</button>
+        <button type="button" class="btn btn-sm btn-primary">Detalhes</button>
+    </div>
+</div>
