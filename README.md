@@ -2,4 +2,4 @@
 
 - Desafio proposto no bootcamp Santander Full Stack da DIO em parceria com o Becas Santander.
 
-
+![alt text](./e-commerce/src/assets/img/livraria.png)
