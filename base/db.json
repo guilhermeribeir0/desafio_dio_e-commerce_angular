@@ -2,15 +2,15 @@
     "livros": [
     {
         "id": 1,
-        "name": "Codigo Limpo",
-        "price": 69.99,
+        "name": "Angular Framework",
+        "price": 59.99,
         "quantity": 14,
         "category": "Tecnologia"
     },
     {
         "id": 2,
-        "name": "Arquitetura Limpa",
-        "price": 59.99,
+        "name": "Spring Framework",
+        "price": 69.99,
         "quantity": 16,
         "category": "Tecnologia"
     },
@@ -23,8 +23,22 @@
     },
     {
         "id": 4,
-        "name": "Spring Framework",
+        "name": "O Codigo Limpo",
         "price": 79.99,
+        "quantity": 10,
+        "category": "Tecnologia"
+    },
+    {
+        "id": 5,
+        "name": "Arquitetura Limpa",
+        "price": 69.99,
+        "quantity": 10,
+        "category": "Tecnologia"
+    },
+    {
+        "id": 6,
+        "name": "Scrum: Guia Definitivo",
+        "price": 67.99,
         "quantity": 10,
         "category": "Tecnologia"
     }
